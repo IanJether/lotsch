@@ -248,6 +248,7 @@ body{
         flex-direction: row;
         justify-content: space-between;
         padding: 10px;
+        text-align: center;
     }
     .pmenu button{
         height: 38px;
@@ -258,6 +259,7 @@ body{
         border-radius: 30px;
         margin-top: -8px;
         font-size: 18px;
+        text-align: center;
     }
 
 
