@@ -297,12 +297,14 @@ body{
         font-size: 17px;
         font-weight: bold;
         border: #28ada2;
+        text-align: center;
     }
     .ptextbutton{
         /* display: flex;
         justify-content: center; */
         padding: 15px;
         margin-top: -25px;
+        text-align: center;
     }
 
     /* the second square element  */
